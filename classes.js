@@ -1,4 +1,4 @@
-document.getElementById("demo1").innerHTML="hello world";
+//document.getElementById("demo1").innerHTML="hello world";
 
 
 function myfunction(){
